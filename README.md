@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia da Computação na Universidade CESUPA (Centro Universitário do Estado do Pará, apaixonado por tecnologia e resolução de problemas.  
+Sou estudante de Engenharia da Computação na Universidade CESUPA (Centro Universitário do Estado do Pará), apaixonado por tecnologia e resolução de problemas.  
 Tenho interesse especial em **programação**, **cibersegurança** e no funcionamento dos sistemas por trás da tecnologia que usamos todos os dias.
 
 Atualmente, estou focado em evoluir minha base técnica, desenvolver projetos práticos e aprender constantemente.
